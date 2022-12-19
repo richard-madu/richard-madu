@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RICHARD MADU
 - 👀 I’m interested in data analysis, data science and machine learning
-- 🌱 I’m currently enrolled to udacity data analyst nanodegree
+- 🌱 I’m currently enrolled to udacity's Machine Learning Nanodegree
 - 💞️ I’m looking to collaborate on any interesting project in data analysis
 - 📫 You can reach me on twitter: [Riqui_eze](https://twitter.com/Riqui_eze) or Linkedin : [Richard Madu](https://www.linkedin.com/in/richard-madu-9b1953176/)
 
